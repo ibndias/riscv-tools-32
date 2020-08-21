@@ -1,5 +1,6 @@
-riscv-tools [![Build Status](https://travis-ci.org/riscv/riscv-tools.svg?branch=master)](https://travis-ci.org/riscv/riscv-tools)
+riscv-tools-32 [![Build Status](https://travis-ci.org/riscv/riscv-tools.svg?branch=master)](https://travis-ci.org/riscv/riscv-tools)
 ===========================================================================
+Modified for RISCV32G
 
 This repository houses a set of RISC-V simulators and other tools,
 including the following projects:
